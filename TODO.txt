@@ -1,0 +1,2 @@
+nav bar fixed not on mobile
+column to tke the whole width on mobile version
